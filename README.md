@@ -3,7 +3,7 @@
 
 ### AIM:
 
-To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data.
+To perform regular differncing,seasonal adjustment and log transformation on international airline passenger data.
 
 ### ALGORITHM:
 
